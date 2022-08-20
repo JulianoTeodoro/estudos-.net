@@ -1,0 +1,14 @@
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.exe
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.deps.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.dev.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.dll
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.pdb
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfo.cs
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.dll
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.pdb
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.genruntimeconfig.cache
