@@ -1,0 +1,14 @@
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\bin\Debug\netcoreapp3.1\generics.exe
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\bin\Debug\netcoreapp3.1\generics.deps.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.dev.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\bin\Debug\netcoreapp3.1\generics.dll
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\bin\Debug\netcoreapp3.1\generics.pdb
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.csproj.AssemblyReference.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfoInputs.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfo.cs
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.dll
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.pdb
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\generics\generics\obj\Debug\netcoreapp3.1\generics.genruntimeconfig.cache

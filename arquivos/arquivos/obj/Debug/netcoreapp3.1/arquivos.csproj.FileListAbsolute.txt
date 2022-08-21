@@ -1,0 +1,14 @@
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\bin\Debug\netcoreapp3.1\arquivos.exe
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\bin\Debug\netcoreapp3.1\arquivos.deps.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\bin\Debug\netcoreapp3.1\arquivos.runtimeconfig.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\bin\Debug\netcoreapp3.1\arquivos.runtimeconfig.dev.json
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\bin\Debug\netcoreapp3.1\arquivos.dll
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\bin\Debug\netcoreapp3.1\arquivos.pdb
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.csproj.AssemblyReference.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.AssemblyInfoInputs.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.AssemblyInfo.cs
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.dll
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.pdb
+C:\Users\Juliano\source\repos\JulianoTeodoro\estudos-.net\arquivos\arquivos\obj\Debug\netcoreapp3.1\arquivos.genruntimeconfig.cache
