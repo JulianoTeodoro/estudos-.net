@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juliano\\source\\repos\\JulianoTeodoro\\estudos-.net\\generics\\generics\\generics.csproj": {}
+    "C:\\Users\\juliano.teodoro\\Source\\Repos\\estudos-.net\\generics\\generics\\generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juliano\\source\\repos\\JulianoTeodoro\\estudos-.net\\generics\\generics\\generics.csproj": {
+    "C:\\Users\\juliano.teodoro\\Source\\Repos\\estudos-.net\\generics\\generics\\generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juliano\\source\\repos\\JulianoTeodoro\\estudos-.net\\generics\\generics\\generics.csproj",
+        "projectUniqueName": "C:\\Users\\juliano.teodoro\\Source\\Repos\\estudos-.net\\generics\\generics\\generics.csproj",
         "projectName": "generics",
-        "projectPath": "C:\\Users\\Juliano\\source\\repos\\JulianoTeodoro\\estudos-.net\\generics\\generics\\generics.csproj",
-        "packagesPath": "C:\\Users\\Juliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juliano\\source\\repos\\JulianoTeodoro\\estudos-.net\\generics\\generics\\obj\\",
+        "projectPath": "C:\\Users\\juliano.teodoro\\Source\\Repos\\estudos-.net\\generics\\generics\\generics.csproj",
+        "packagesPath": "C:\\Users\\juliano.teodoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliano.teodoro\\Source\\Repos\\estudos-.net\\generics\\generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juliano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juliano.teodoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

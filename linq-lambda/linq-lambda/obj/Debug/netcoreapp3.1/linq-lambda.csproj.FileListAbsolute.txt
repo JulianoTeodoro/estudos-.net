@@ -1,0 +1,14 @@
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\bin\Debug\netcoreapp3.1\linq-lambda.exe
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\bin\Debug\netcoreapp3.1\linq-lambda.deps.json
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\bin\Debug\netcoreapp3.1\linq-lambda.runtimeconfig.json
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\bin\Debug\netcoreapp3.1\linq-lambda.runtimeconfig.dev.json
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\bin\Debug\netcoreapp3.1\linq-lambda.dll
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\bin\Debug\netcoreapp3.1\linq-lambda.pdb
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.csproj.AssemblyReference.cache
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.AssemblyInfoInputs.cache
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.AssemblyInfo.cs
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.csproj.CoreCompileInputs.cache
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.dll
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.pdb
+C:\Users\juliano.teodoro\source\repos\estudos-.net\linq-lambda\linq-lambda\obj\Debug\netcoreapp3.1\linq-lambda.genruntimeconfig.cache
