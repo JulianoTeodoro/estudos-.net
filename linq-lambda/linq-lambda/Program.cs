@@ -6,6 +6,7 @@ namespace linq_lambda
 {
     internal class Program
     {
+        public static int globalValue = 3;
         static void Main(string[] args)
         {
             List<Product> products = new List<Product>();
@@ -22,6 +23,8 @@ namespace linq_lambda
             }
 
             //Console.WriteLine(products[0].Equals(products[1]));
+
+
         }
 
         
