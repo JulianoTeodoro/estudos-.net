@@ -7,13 +7,17 @@ namespace linq_lambda.Entities
     class Product
     {
 
+        public int Id { get; set; }
         public string Name { get; set; }
         public double Price { get; set; }
+        public Category Category { get; set; }
 
-        public Product(string name, double price)
+        public Product(int id, string name, double price, Category category)
         {
+            Id = id;
             Name = name;
             Price = price;
+            Category = category;
         }
 
         public override bool Equals(object obj)
@@ -33,7 +37,7 @@ namespace linq_lambda.Entities
 
         public override string ToString()
         {
-            return Name + " , R$ " + Price;
+            return "ID: " + Id + ", Name: " + Name + " , R$ " + Price;
         }
     }
 }
